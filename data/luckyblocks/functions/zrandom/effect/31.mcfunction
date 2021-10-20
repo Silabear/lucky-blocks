@@ -1,0 +1,1 @@
+effect give @p weakness 30

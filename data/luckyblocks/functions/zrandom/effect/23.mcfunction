@@ -1,0 +1,1 @@
+effect give @p regeneration 30

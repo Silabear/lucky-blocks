@@ -1,0 +1,1 @@
+effect give @p jump_boost 30

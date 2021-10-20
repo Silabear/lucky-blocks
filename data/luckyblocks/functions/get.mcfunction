@@ -1,0 +1,1 @@
+give @p item_frame{display:{Name:'{"text":"Lucky Block","italic":false,"color":"aqua"}'},CustomModelData:56265,EntityTag:{Tags:["lb"],Item:{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:56265}},Fixed:1b,Silent:1b}} 1

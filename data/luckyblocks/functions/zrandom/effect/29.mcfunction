@@ -1,0 +1,1 @@
+effect give @p strength 30

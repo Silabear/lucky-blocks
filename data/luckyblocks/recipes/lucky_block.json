@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+      "###",
+      "XOX",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:glass"
+      },
+      "X": {
+        "item": "minecraft:gold_block"
+      },
+      "O": {
+        "item": "minecraft:redstone_block"
+      }
+    },
+    "result": {
+      "item": "minecraft:knowledge_book",
+      "tag": "{Recipes:[]}"
+    }
+  }

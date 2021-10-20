@@ -1,0 +1,1 @@
+effect give @p poison 30

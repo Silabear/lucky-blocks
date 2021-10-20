@@ -1,0 +1,1 @@
+effect give @p mining_fatigue 30
